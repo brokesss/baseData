@@ -1,3 +1,4 @@
+<?php echo "Второе изменение"; ?>
 <form action="" method="post" enctype="multipart/form-data">
     <div class="form-group mt-5" >
         <label for="post_date">Дата публикации:
