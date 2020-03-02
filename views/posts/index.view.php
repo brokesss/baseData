@@ -1,7 +1,7 @@
 
 <?php
 
-
+echo "Первое изменение";
 $title = "Главная страница";
 require_once __DIR__."/../parts/header.php" ?>
 <div class="alert <?= $_SESSION["alert"] ?>" role="alert">
